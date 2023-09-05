@@ -1,0 +1,5 @@
+C:\Users\Shnaps\source\repos\ПрактическаяРабота23\ПрактическаяРабота23\obj\Debug\ПрактическаяРабота23.csproj.AssemblyReference.cache
+C:\Users\Shnaps\source\repos\ПрактическаяРабота23\ПрактическаяРабота23\obj\Debug\ПрактическаяРабота23.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shnaps\source\repos\ПрактическаяРабота23\ПрактическаяРабота23\obj\Debug\ПрактическаяРабота23.Properties.Resources.resources
+C:\Users\Shnaps\source\repos\ПрактическаяРабота23\ПрактическаяРабота23\obj\Debug\ПрактическаяРабота23.csproj.GenerateResource.cache
+C:\Users\Shnaps\source\repos\ПрактическаяРабота23\ПрактическаяРабота23\obj\Debug\ПрактическаяРабота23.csproj.CoreCompileInputs.cache
